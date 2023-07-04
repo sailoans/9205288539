@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auto Call</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            window.location.href = "tel:+919205288539";
+        });
+    </script>
+</head>
+<body>
+</body>
+</html>
